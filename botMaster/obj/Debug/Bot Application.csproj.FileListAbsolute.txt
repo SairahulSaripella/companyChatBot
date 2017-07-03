@@ -1,0 +1,41 @@
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Bot Application.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Bot Application.pdb
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Autofac.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Chronic.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.Bot.Builder.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.Bot.Connector.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Newtonsoft.Json.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.Net.Http.Formatting.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.Web.Http.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.Web.Http.WebHost.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Autofac.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.Bot.Builder.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.Bot.Connector.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\Newtonsoft.Json.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.Net.Http.Formatting.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.Web.Http.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\System.Web.Http.WebHost.xml
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\obj\Debug\Bot Application.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\obj\Debug\Bot Application.pdb
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\botMaster\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
