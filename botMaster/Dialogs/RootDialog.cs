@@ -6,6 +6,7 @@ using Dialogs;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
+using System.Threading;
 
 namespace Bot_Application.Dialogs
 {
