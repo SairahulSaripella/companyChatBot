@@ -36,6 +36,9 @@ namespace Bot_Application.Dialogs
             {
                 try
                 {
+
+		
+		    Thread.Sleep(4000);	
                     Bitmap capture = CaptureScreen.GetDesktopImage();
                     string file = Path.Combine("C:\\Users\\Sai\\Desktop", "botScreenShot.png");
                     ImageFormat format = ImageFormat.Png;
